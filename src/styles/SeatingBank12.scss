@@ -1,0 +1,131 @@
+.seating-bank-12-container {
+
+  width: 9%;
+  height: 11%;
+
+  position: absolute;
+  top: 53%;
+  left: 28%;
+
+  transform: rotate(-2deg);
+
+  .seat-1 {
+    position: absolute;
+    top: 4%;
+    left: 32%;
+
+    transform: rotate(-20deg);
+
+    p {
+      transform: rotate(20deg);
+    }     
+  }
+
+  .seat-2 {
+    position: absolute;
+    top: 4%;
+    left: 58%;
+
+    transform: rotate(20deg);
+
+    p {
+      transform: rotate(-20deg);
+    }     
+  } 
+  
+  .seat-3 {
+    position: absolute;
+    top: 21%;
+    left: 77%;
+
+    transform: rotate(60deg);
+
+    p {
+      transform: rotate(-60deg);
+    }     
+  }   
+
+  .seat-4 {
+    position: absolute;
+    top: 44%;
+    left: 84%; 
+  }     
+
+  .seat-5 {
+    position: absolute;
+    top: 67%;
+    left: 80%;
+
+    transform: rotate(25deg);
+
+    p {
+      transform: rotate(-25deg);
+    }     
+  }  
+  
+  .seat-6 {
+    position: absolute;
+    top: 84%;
+    left: 67%;
+
+    transform: rotate(59deg);
+
+    p {
+      transform: rotate(-59deg);
+    }     
+  }   
+  
+  .seat-7 {
+    position: absolute;
+    top: 90%;
+    left: 47%;
+
+    transform: rotate(-5deg);
+
+    p {
+      transform: rotate(5deg);
+    }     
+  } 
+  
+  .seat-8 {
+    position: absolute;
+    top: 86%;
+    left: 27%;
+
+    transform: rotate(25deg);
+
+    p {
+      transform: rotate(-25deg);
+    }     
+  }   
+
+  .seat-9 {
+    position: absolute;
+    top: 71%;
+    left: 12%;
+
+    transform: rotate(59deg);
+
+    p {
+      transform: rotate(-59deg);
+    }     
+  }  
+  
+  .seat-10 {
+    position: absolute;
+    top: 47%;
+    left: 7%;
+  }  
+  
+  .seat-11 {
+    position: absolute;
+    top: 22%;
+    left: 13%;
+
+    transform: rotate(32deg);
+
+    p {
+      transform: rotate(-32deg);
+    }     
+  }    
+}

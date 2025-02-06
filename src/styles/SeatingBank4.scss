@@ -1,0 +1,52 @@
+.seating-bank-4-container {
+
+  width: 5.2%;
+  height: 10%;
+
+  position: absolute;
+  top: 42.2%;
+  left: 71%;
+
+  .seat-1 {
+    position: absolute;
+    top: 1%;
+    left: 25%;
+  }
+
+  .seat-2 {
+    position: absolute;
+    top: 1%;
+    left: 55%;
+  }
+  
+  .seat-3 {
+    position: absolute;
+    top: 21%;
+    left: 84%;
+  }
+  
+  .seat-4 {
+    position: absolute;
+    top: 44%;
+    left: 85%;
+  }  
+
+  .seat-5 {
+    position: absolute;
+    top: 67%;
+    left: 86%;
+  }
+
+  .seat-6 {
+    position: absolute;
+    top: 85%;
+    left: 54%;
+  }
+  
+  .seat-7 {
+    position: absolute;
+    top: 86%;
+    left: 15%;
+  }
+  
+}

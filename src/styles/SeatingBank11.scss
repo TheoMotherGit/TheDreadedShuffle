@@ -1,0 +1,299 @@
+.seating-bank-11-container {
+
+  width: 12%;
+  height: 37%;
+
+  position: absolute;
+  top: 39%;
+  left: 25%;
+  
+  transform: rotate(-2deg);
+
+  .seat-1 {
+    position: absolute;
+    top: 2%;
+    left: 44%;
+
+    transform: rotate(-20deg);
+
+    p {
+      transform: rotate(20deg);
+    }     
+  }
+
+  .seat-2 {
+    position: absolute;
+    top: 0%;
+    left: 57%;
+
+    transform: rotate(-20deg);
+
+    p {
+      transform: rotate(20deg);
+    }     
+  }  
+
+  .seat-3 {
+    position: absolute;
+    top: 1%;
+    left: 75%;
+
+    transform: rotate(42deg);
+
+    p {
+      transform: rotate(-42deg);
+    }     
+  } 
+  
+  .seat-4 {
+    position: absolute;
+    top: 10%;
+    left: 93%;  
+  }   
+
+  .seat-5 {
+    position: absolute;
+    top: 17%;
+    left: 93%;  
+  }  
+  
+  .seat-6 {
+    position: absolute;
+    top: 23%;
+    left: 94%;  
+  }   
+  
+  .seat-7 {
+    position: absolute;
+    top: 28%;
+    left: 75%;  
+
+    transform: rotate(-3deg);
+
+    p {
+      transform: rotate(3deg);
+    }         
+  }    
+  
+  .seat-8 {
+    position: absolute;
+    top: 34%;
+    left: 54%;  
+
+    transform: rotate(-3deg);
+
+    p {
+      transform: rotate(3deg);
+    }         
+  }      
+
+  .seat-9 {
+    position: absolute;
+    top: 38%;
+    left: 35%;  
+
+    transform: rotate(-34deg);
+
+    p {
+      transform: rotate(34deg);
+    }         
+  }      
+
+  .seat-10 {
+    position: absolute;
+    top: 44%;
+    left: 19%;  
+
+    transform: rotate(-51deg);
+
+    p {
+      transform: rotate(51deg);
+    }         
+  } 
+  
+  .seat-11 {
+    position: absolute;
+    top: 50%;
+    left: 11%;  
+
+    transform: rotate(20deg);
+
+    p {
+      transform: rotate(-20deg);
+    }         
+  }    
+  
+  .seat-12 {
+    position: absolute;
+    top: 56%;
+    left: 8%;  
+
+    transform: rotate(-5deg);
+
+    p {
+      transform: rotate(5deg);
+    }         
+  }   
+  
+  .seat-13 {
+    position: absolute;
+    top: 63%;
+    left: 12%;  
+
+    transform: rotate(-33deg);
+
+    p {
+      transform: rotate(33deg);
+    }         
+  }     
+
+  .seat-14 {
+    position: absolute;
+    top: 67%;
+    left: 22%;  
+
+    transform: rotate(32deg);
+
+    p {
+      transform: rotate(-32deg);
+    }         
+  }     
+
+  .seat-15 {
+    position: absolute;
+    top: 69%;
+    left: 35%;  
+
+    transform: rotate(10deg);
+
+    p {
+      transform: rotate(-10deg);
+    }         
+  }     
+
+  .seat-16 {
+    position: absolute;
+    top: 69%;
+    left: 51%;  
+
+    transform: rotate(-1deg);
+
+    p {
+      transform: rotate(1deg);
+    }         
+  }     
+
+  .seat-17 {
+    position: absolute;
+    top: 68.5%;
+    left: 72%;  
+
+    transform: rotate(-1deg);
+
+    p {
+      transform: rotate(1deg);
+    }         
+  }   
+
+  .seat-18 {
+    position: absolute;
+    top: 68%;
+    left: 86%;  
+
+    transform: rotate(-1deg);
+
+    p {
+      transform: rotate(1deg);
+    }         
+  }    
+  
+  .seat-19 {
+    position: absolute;
+    top: 75%;
+    left: 95%;      
+  }      
+
+  .seat-20 {
+    position: absolute;
+    top: 81%;
+    left: 94%;          
+  }    
+  
+  .seat-21 {
+    position: absolute;
+    top: 89%;
+    left: 94%;            
+  }  
+  
+  .seat-22 {
+    position: absolute;
+    top: 94%;
+    left: 80%;  
+
+    transform: rotate(-11deg);
+
+    p {
+      transform: rotate(11deg);
+    }         
+  }     
+
+  .seat-23 {
+    position: absolute;
+    top: 95%;
+    left: 65%;  
+
+    transform: rotate(-11deg);
+
+    p {
+      transform: rotate(11deg);
+    }         
+  }       
+  
+  .seat-24 {
+    position: absolute;
+    top: 95.5%;
+    left: 49%;  
+
+    transform: rotate(-9deg);
+
+    p {
+      transform: rotate(9deg);
+    }         
+  }  
+  
+  .seat-25 {
+    position: absolute;
+    top: 96%;
+    left: 34%;  
+
+    transform: rotate(-9deg);
+
+    p {
+      transform: rotate(9deg);
+    }         
+  }   
+  
+  .seat-26 {
+    position: absolute;
+    top: 97%;
+    left: 22%;  
+
+    transform: rotate(-12deg);
+
+    p {
+      transform: rotate(12deg);
+    }         
+  }  
+  
+  .seat-27 {
+    position: absolute;
+    top: 96.5%;
+    left: 7%;  
+
+    transform: rotate(12deg);
+
+    p {
+      transform: rotate(-12deg);
+    }         
+  }    
+}

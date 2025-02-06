@@ -1,0 +1,142 @@
+.seating-bank-6-container {
+
+  width: 8%;
+  height: 10.5%;
+
+  position: absolute;
+  top: 60.2%;
+  left: 78.5%;
+
+  .seat-1 {
+    position: absolute;
+    top: 1%;
+    left: 41%;
+    transform: rotate(23deg);
+
+    p {
+      transform: rotate(-23deg);
+    }        
+  }
+
+  .seat-2 {
+    position: absolute;
+    top: 9%;
+    left: 58%;
+    transform: rotate(23deg);
+
+    p {
+      transform: rotate(-23deg);
+    }    
+  }  
+
+  .seat-3 {
+    position: absolute;
+    top: 20%;
+    left: 79%;
+    transform: rotate(23deg);
+
+    p {
+      transform: rotate(-23deg);
+    }    
+  }  
+
+  .seat-4 {
+    position: absolute;
+    top: 43%;
+    left: 89%;
+    transform: rotate(30deg);
+
+    p {
+      transform: rotate(-30deg);
+    }
+  }    
+
+  .seat-5 {
+    position: absolute;
+    top: 57%;
+    left: 81%;
+    transform: rotate(40deg);
+
+    p {
+      transform: rotate(-40deg);
+    }        
+  }   
+  
+  .seat-6 {
+    position: absolute;
+    top: 70%;
+    left: 71%;
+    transform: rotate(45deg);
+
+    p {
+      transform: rotate(-45deg);
+    }        
+  }  
+  
+  .seat-7 {
+    position: absolute;
+    top: 80%;
+    left: 58%;
+    transform: rotate(55deg);
+
+    p {
+      transform: rotate(-55deg);
+    }        
+  }    
+
+  .seat-8 {
+    position: absolute;
+    top: 90%;
+    left: 41%;
+    transform: rotate(65deg);
+
+    p {
+      transform: rotate(-65deg);
+    }        
+  }  
+  
+  .seat-9 {
+    position: absolute;
+    top: 81%;
+    left: 18%;
+    transform: rotate(65deg);
+
+    p {
+      transform: rotate(-65deg);
+    }        
+  }   
+  
+  .seat-10 {
+    position: absolute;
+    top: 39%;
+    left: 4%;
+    transform: rotate(70deg);
+
+    p {
+      transform: rotate(-70deg);
+    }        
+  }    
+  
+  .seat-11 {
+    position: absolute;
+    top: 16%;
+    left: 8%;
+    transform: rotate(-28deg);
+
+    p {
+      transform: rotate(28deg);
+    }        
+  }    
+  
+  .seat-12 {
+    position: absolute;
+    top: 6%;
+    left: 21%;
+    transform: rotate(-52deg);
+
+    p {
+      transform: rotate(52deg);
+    }        
+  }      
+  
+}

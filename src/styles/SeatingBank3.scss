@@ -1,0 +1,95 @@
+.seating-bank-3-container {
+
+  width: 13%;
+  height: 5%;
+
+  position: absolute;
+  top: 34.5%;
+  left: 62.5%;
+  transform: rotate(1deg);
+
+  .seat-1 {
+    position: absolute;
+    top: 0%;
+    left: 2%;
+  }
+
+  .seat-2 {
+    position: absolute;
+    top: 0%;
+    left: 16.5%;
+  }
+  
+  .seat-3 {
+    position: absolute;
+    top: 0%;
+    left: 32%;
+  }
+  
+  .seat-4 {
+    position: absolute;
+    top: 0%;
+    left: 44%;
+  }  
+
+  .seat-5 {
+    position: absolute;
+    top: 0%;
+    left: 58%;
+  }
+
+  .seat-6 {
+    position: absolute;
+    top: -3%;
+    left: 75%;
+  }
+  
+  .seat-7 {
+    position: absolute;
+    top: -4%;
+    left: 91%;
+  }
+
+  .seat-8 {
+    position: absolute;
+    top: 80%;
+    left: 2%;
+  }
+
+  .seat-9 {
+    position: absolute;
+    top: 80%;
+    left: 16.5%;
+  }
+  
+  .seat-10 {
+    position: absolute;
+    top: 80%;
+    left: 32%;
+  }
+  
+  .seat-11 {
+    position: absolute;
+    top: 80%;
+    left: 44%;
+  }  
+
+  .seat-12 {
+    position: absolute;
+    top: 80%;
+    left: 58%;
+  }
+
+  .seat-13 {
+    position: absolute;
+    top: 80%;
+    left: 75%;
+  }
+  
+  .seat-14 {
+    position: absolute;
+    top: 80%;
+    left: 91%;
+  }  
+  
+}

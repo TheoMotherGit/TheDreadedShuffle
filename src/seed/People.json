@@ -1,0 +1,2778 @@
+[{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f273"
+  },
+  "first_name": "Amelia",
+  "last_name": "Ryan",
+  "department": "Assistants",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f274"
+  },
+  "first_name": "Venetia",
+  "last_name": "Kennedy",
+  "department": "Assistants",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f275"
+  },
+  "first_name": "Erica",
+  "last_name": "Kaounides",
+  "department": "Assistants",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f276"
+  },
+  "first_name": "Imogen",
+  "last_name": "Prowse",
+  "department": "Assistants",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f277"
+  },
+  "first_name": "Vairi",
+  "last_name": "MacLennan",
+  "department": "Content",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f278"
+  },
+  "first_name": "Zakir",
+  "last_name": "Hasan",
+  "department": "Content",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f279"
+  },
+  "first_name": "Emily",
+  "last_name": "Evans",
+  "department": "Content",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27a"
+  },
+  "first_name": "Ben",
+  "last_name": "Hillyar",
+  "department": "Content",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27b"
+  },
+  "first_name": "Susan",
+  "last_name": "Hosking",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f27c"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27c"
+  },
+  "first_name": "Peter",
+  "last_name": "Robertson",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f27b"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27d"
+  },
+  "first_name": "Nick",
+  "last_name": "Hallbery",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27e"
+  },
+  "first_name": "Rich",
+  "last_name": "Tahmasebi",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f27f"
+  },
+  "first_name": "Martin",
+  "last_name": "Rose",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f280"
+  },
+  "first_name": "James",
+  "last_name": "Sellick",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f281"
+  },
+  "first_name": "Dom",
+  "last_name": "Nazeri",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f282"
+  },
+  "first_name": "Julia",
+  "last_name": "Oliphant",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f283"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f283"
+  },
+  "first_name": "Matt",
+  "last_name": "Bladin",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f282"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f284"
+  },
+  "first_name": "Scott",
+  "last_name": "Anderson",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f285"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f285"
+  },
+  "first_name": "Lottie",
+  "last_name": "Sole",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f284"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f286"
+  },
+  "first_name": "James",
+  "last_name": "Ross-Edwards",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f287"
+  },
+  "first_name": "Fabio",
+  "last_name": "Montero",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f288"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f288"
+  },
+  "first_name": "Luke",
+  "last_name": "Dawson",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f287"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f289"
+  },
+  "first_name": "Anthony",
+  "last_name": "Montagne",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f28a"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28a"
+  },
+  "first_name": "Oli",
+  "last_name": "Rimoldi",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f289"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28b"
+  },
+  "first_name": "Giedre",
+  "last_name": "Miniotaite",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28c"
+  },
+  "first_name": "Hannah",
+  "last_name": "Tarpey",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28d"
+  },
+  "first_name": "Dickie",
+  "last_name": "Connell",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28e"
+  },
+  "first_name": "Mico",
+  "last_name": "Toledo",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f28f"
+  },
+  "first_name": "Liy",
+  "last_name": "Grant",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f290"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f290"
+  },
+  "first_name": "Sammy",
+  "last_name": "Hall",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f28f"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f291"
+  },
+  "first_name": "Georgia",
+  "last_name": "Armstrong",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f292"
+  },
+  "first_name": "Anastasia",
+  "last_name": "McLean",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f293"
+  },
+  "first_name": "Liv",
+  "last_name": "Shortland",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f294"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f294"
+  },
+  "first_name": "Steph",
+  "last_name": "Flynn",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f293"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f295"
+  },
+  "first_name": "Ali",
+  "last_name": "Milne",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f296"
+  },
+  "first_name": "Paloma",
+  "last_name": "Gardiner",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f297"
+  },
+  "first_name": "Jack",
+  "last_name": "Gravatt",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f298"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f298"
+  },
+  "first_name": "Till",
+  "last_name": "Dittmers",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f297"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f299"
+  },
+  "first_name": "Gabriel",
+  "last_name": "Crompton-Schreiber",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f29a"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29a"
+  },
+  "first_name": "Anisa",
+  "last_name": "Abdurahman",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f299"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29b"
+  },
+  "first_name": "Ivan",
+  "last_name": "Montebello",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29c"
+  },
+  "first_name": "Jack",
+  "last_name": "Willoughby",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f29d"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29d"
+  },
+  "first_name": "Serhan",
+  "last_name": "Asim",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f29c"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29e"
+  },
+  "first_name": "Jay",
+  "last_name": "Daniels",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f29f"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f29f"
+  },
+  "first_name": "Will",
+  "last_name": "Lancaster",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f29e"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a0"
+  },
+  "first_name": "Tom",
+  "last_name": "Bender",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a1"
+  },
+  "first_name": "Kayla",
+  "last_name": "Lui",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2a2"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a2"
+  },
+  "first_name": "Phoebe",
+  "last_name": "Husband",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2a1"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a3"
+  },
+  "first_name": "Sherwin",
+  "last_name": "Teo",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2a4"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a4"
+  },
+  "first_name": "Conrad",
+  "last_name": "Haddaway",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2a3"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a7"
+  },
+  "first_name": "Jordan",
+  "last_name": "Waters",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a8"
+  },
+  "first_name": "Adam",
+  "last_name": "Evans‑Pringle",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2a9"
+  },
+  "first_name": "Rick",
+  "last_name": "Smith",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2aa"
+  },
+  "first_name": "Charlie",
+  "last_name": "Chapman",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ab"
+  },
+  "first_name": "Michael",
+  "last_name": "Swinburn",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2ac"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ac"
+  },
+  "first_name": "Israel",
+  "last_name": "Medeiros de Oliveira",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2ab"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ad"
+  },
+  "first_name": "Tom",
+  "last_name": "Coleman",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2ae"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ae"
+  },
+  "first_name": "Derek",
+  "last_name": "Lui",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2ad"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2af"
+  },
+  "first_name": "Ben",
+  "last_name": "Shaffery",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b0"
+  },
+  "first_name": "Molly",
+  "last_name": "Wilkof",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b1"
+  },
+  "first_name": "",
+  "last_name": "Sullivan",
+  "department": "Facilities",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b2"
+  },
+  "first_name": "Steve",
+  "last_name": "Madden",
+  "department": "Facilities",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b3"
+  },
+  "first_name": "Catherine",
+  "last_name": "Nickson",
+  "department": "Facilities",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b4"
+  },
+  "first_name": "James",
+  "last_name": "Nichols",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b5"
+  },
+  "first_name": "Rollo",
+  "last_name": "Price",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b6"
+  },
+  "first_name": "Jonathan",
+  "last_name": "Lynch",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b7"
+  },
+  "first_name": "Lee",
+  "last_name": "Fox",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b8"
+  },
+  "first_name": "Ashley",
+  "last_name": "Todd",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2b9"
+  },
+  "first_name": "Katie",
+  "last_name": "Shuker",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ba"
+  },
+  "first_name": "Nicola",
+  "last_name": "Russell",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2bb"
+  },
+  "first_name": "Satti",
+  "last_name": "Singh",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2bc"
+  },
+  "first_name": "Caitlan",
+  "last_name": "Gleisinger",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2bd"
+  },
+  "first_name": "George",
+  "last_name": "Prior",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2be"
+  },
+  "first_name": "Mike",
+  "last_name": "Portas",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2bf"
+  },
+  "first_name": "Amy",
+  "last_name": "Moughton",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c0"
+  },
+  "first_name": "Josh",
+  "last_name": "Cooper",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c1"
+  },
+  "first_name": "Daisy",
+  "last_name": "Rodrigues",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c2"
+  },
+  "first_name": "Scott",
+  "last_name": "Johnston",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c3"
+  },
+  "first_name": "Khajal",
+  "last_name": "Mistry",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c4"
+  },
+  "first_name": "Kobby",
+  "last_name": "Darko-Ampem",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c5"
+  },
+  "first_name": "Daniel",
+  "last_name": "Baban",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c6"
+  },
+  "first_name": "Holly",
+  "last_name": "O'Moore",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c7"
+  },
+  "first_name": "Daniel",
+  "last_name": "Broadley",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c8"
+  },
+  "first_name": "Ani",
+  "last_name": "Sivanathan",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2c9"
+  },
+  "first_name": "Alex",
+  "last_name": "Okpongete",
+  "department": "Finance",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ca"
+  },
+  "first_name": "Andy",
+  "last_name": "Ballantyne Gilbert",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2cb"
+  },
+  "first_name": "Ben",
+  "last_name": "Caulfield",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2cc"
+  },
+  "first_name": "Lydia",
+  "last_name": "Miller",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2cd"
+  },
+  "first_name": "Daisy",
+  "last_name": "Bairamian",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ce"
+  },
+  "first_name": "Will",
+  "last_name": "Payne",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2cf"
+  },
+  "first_name": "Albert",
+  "last_name": "Ponnelle",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d0"
+  },
+  "first_name": "Kat",
+  "last_name": "McCabe",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d1"
+  },
+  "first_name": "Ollie",
+  "last_name": "Felts",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d2"
+  },
+  "first_name": "Nadine",
+  "last_name": "Abeledo",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d3"
+  },
+  "first_name": "Zelda",
+  "last_name": "Hughes",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d4"
+  },
+  "first_name": "Zoe",
+  "last_name": "Ellaby",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d5"
+  },
+  "first_name": "Nina",
+  "last_name": "Farrall",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d6"
+  },
+  "first_name": "Michael",
+  "last_name": "Ferdenzi",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d7"
+  },
+  "first_name": "Vic",
+  "last_name": "N'Dri",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d8"
+  },
+  "first_name": "Flynn",
+  "last_name": "Leslie",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2d9"
+  },
+  "first_name": "Lisa",
+  "last_name": "Solomon",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2da"
+  },
+  "first_name": "Annie",
+  "last_name": "Allen",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2db"
+  },
+  "first_name": "Dani",
+  "last_name": "Luchini Cabral",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2dc"
+  },
+  "first_name": "Jeffi",
+  "last_name": "Van Hees",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2dd"
+  },
+  "first_name": "Dani",
+  "last_name": "Rex-Byrd",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2de"
+  },
+  "first_name": "Sabine",
+  "last_name": "Nguyen",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2df"
+  },
+  "first_name": "Lauren",
+  "last_name": "Walker",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e0"
+  },
+  "first_name": "Marina",
+  "last_name": "West",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e1"
+  },
+  "first_name": "Kristy",
+  "last_name": "Poh",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e2"
+  },
+  "first_name": "Tabitha",
+  "last_name": "Clark",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e3"
+  },
+  "first_name": "Emily",
+  "last_name": "McArthur",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e4"
+  },
+  "first_name": "Ella",
+  "last_name": "Barker",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e5"
+  },
+  "first_name": "Hanna",
+  "last_name": "Thomas",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e6"
+  },
+  "first_name": "Emma",
+  "last_name": "Bottomley",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e7"
+  },
+  "first_name": "Matt",
+  "last_name": "Taylor",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e8"
+  },
+  "first_name": "Yuki",
+  "last_name": "Yamakado",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2e9"
+  },
+  "first_name": "Reiko",
+  "last_name": "Barrett",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ea"
+  },
+  "first_name": "Jo",
+  "last_name": "Goldberg",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2eb"
+  },
+  "first_name": "Emily",
+  "last_name": "Frost",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ec"
+  },
+  "first_name": "Nick",
+  "last_name": "Owen",
+  "department": "Mothering",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ed"
+  },
+  "first_name": "Chloe",
+  "last_name": "Mulholland",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ee"
+  },
+  "first_name": "Arafat",
+  "last_name": "Olayo",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ef"
+  },
+  "first_name": "Gemma",
+  "last_name": "Watson Symington",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f0"
+  },
+  "first_name": "Jerome",
+  "last_name": "Cuzol",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f1"
+  },
+  "first_name": "Seb",
+  "last_name": "Lynch",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f2"
+  },
+  "first_name": "Jaani",
+  "last_name": "Patheja",
+  "department": "Legal & Production Affairs",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f3"
+  },
+  "first_name": "Chris",
+  "last_name": "Gallery",
+  "department": "London Partners",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false,
+  "assistant": {
+    "$oid": "66bb41bb47f76f266103f274"
+  },
+  "seat": {
+    "bank": null,
+    "seat": null
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f4"
+  },
+  "first_name": "Felix",
+  "last_name": "Richter",
+  "department": "London Partners",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false,
+  "assistant": {
+    "$oid": "66bb41bb47f76f266103f274"
+  },
+  "seat": {
+    "bank": null,
+    "seat": null
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f5"
+  },
+  "first_name": "Bob",
+  "last_name": "Saville",
+  "department": "Mother Group",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2f6"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false,
+  "assistant": {
+    "$oid": "66bb41bb47f76f266103f273"
+  },
+  "seat": {
+    "bank": 13,
+    "seat": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f6"
+  },
+  "first_name": "Michael",
+  "last_name": "Wall",
+  "department": "Mother Group",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f2f5"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false,
+  "assistant": {
+    "$oid": "66bb41bb47f76f266103f273"
+  },
+  "seat": {
+    "bank": 13,
+    "seat": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f7"
+  },
+  "first_name": "Karen",
+  "last_name": "Buchanan",
+  "department": "Mother Group",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false,
+  "seat": {
+    "bank": null,
+    "seat": null
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f8"
+  },
+  "first_name": "Carrie",
+  "last_name": "Murray",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2f9"
+  },
+  "first_name": "Tom",
+  "last_name": "Wong",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2fa"
+  },
+  "first_name": "Marina",
+  "last_name": "Banks",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2fb"
+  },
+  "first_name": "Yasmin",
+  "last_name": "Walker",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2fc"
+  },
+  "first_name": "Lucy",
+  "last_name": "Pull",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2fd"
+  },
+  "first_name": "Sian",
+  "last_name": "Blackman",
+  "department": "New Business",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2fe"
+  },
+  "first_name": "Ange",
+  "last_name": "Kakouratos",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f2ff"
+  },
+  "first_name": "Sharna",
+  "last_name": "Lee",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f300"
+  },
+  "first_name": "Michelle",
+  "last_name": "Hammond",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f301"
+  },
+  "first_name": "Alice",
+  "last_name": "Ward",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f302"
+  },
+  "first_name": "Jess",
+  "last_name": "Ferguson",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f303"
+  },
+  "first_name": "Nina",
+  "last_name": "Toal-McCann",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f304"
+  },
+  "first_name": "Jasmine",
+  "last_name": "Maidens",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f305"
+  },
+  "first_name": "Alex",
+  "last_name": "Morris-Platt",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f306"
+  },
+  "first_name": "Chris",
+  "last_name": "Bailey",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f307"
+  },
+  "first_name": "Lydia",
+  "last_name": "Charlton",
+  "department": "People Team",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f308"
+  },
+  "first_name": "Emma",
+  "last_name": "Davenport",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f309"
+  },
+  "first_name": "Amy",
+  "last_name": "Williams",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30a"
+  },
+  "first_name": "Anna",
+  "last_name": "Murray",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30b"
+  },
+  "first_name": "Tommy",
+  "last_name": "Frankau",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30c"
+  },
+  "first_name": "Jenny",
+  "last_name": "Fan",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30d"
+  },
+  "first_name": "Bertie",
+  "last_name": "Gulliver",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30e"
+  },
+  "first_name": "Oli",
+  "last_name": "Kozlik",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f30f"
+  },
+  "first_name": "Emma",
+  "last_name": "Horgan",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f310"
+  },
+  "first_name": "Kate",
+  "last_name": "Congreve",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f311"
+  },
+  "first_name": "Sarah",
+  "last_name": "Allen",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f312"
+  },
+  "first_name": "Hannah",
+  "last_name": "Tozer",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f313"
+  },
+  "first_name": "Roger",
+  "last_name": "Ratajczak",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f314"
+  },
+  "first_name": "Ellie",
+  "last_name": "Thornton",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f315"
+  },
+  "first_name": "Kate",
+  "last_name": "Maggiore Hardy",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f316"
+  },
+  "first_name": "Joseph",
+  "last_name": "Ogunmokun",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f317"
+  },
+  "first_name": "Georgia",
+  "last_name": "Lawson",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f318"
+  },
+  "first_name": "Charlotte",
+  "last_name": "Wilson",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f319"
+  },
+  "first_name": "Andy",
+  "last_name": "Redpath",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31a"
+  },
+  "first_name": "Sam",
+  "last_name": "Rendle Short",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31b"
+  },
+  "first_name": "Lachie",
+  "last_name": "Mackintosh",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31c"
+  },
+  "first_name": "Esteban",
+  "last_name": "Gamba Ramirez",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31d"
+  },
+  "first_name": "Mary",
+  "last_name": "Kofoworola",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31e"
+  },
+  "first_name": "Aaron",
+  "last_name": "Rocca",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f31f"
+  },
+  "first_name": "Chris",
+  "last_name": "Lynd",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f320"
+  },
+  "first_name": "Ben",
+  "last_name": "Waters",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f321"
+  },
+  "first_name": "Clio",
+  "last_name": "McLeary",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f322"
+  },
+  "first_name": "Jen",
+  "last_name": "Price Thomas",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f323"
+  },
+  "first_name": "James",
+  "last_name": "Faupel",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f324"
+  },
+  "first_name": "Imogen",
+  "last_name": "McManus",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f325"
+  },
+  "first_name": "Erin",
+  "last_name": "Wright",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f326"
+  },
+  "first_name": "Siobhan",
+  "last_name": "Spence-Edwards",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f327"
+  },
+  "first_name": "Ricky",
+  "last_name": "O'Neill",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f328"
+  },
+  "first_name": "Louise",
+  "last_name": "Hawkes",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f329"
+  },
+  "first_name": "Kate",
+  "last_name": "McDonald",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32a"
+  },
+  "first_name": "Ems",
+  "last_name": "McBean",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32b"
+  },
+  "first_name": "Amy",
+  "last_name": "Simmons",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32c"
+  },
+  "first_name": "Natalie",
+  "last_name": "Roloff",
+  "department": "Production",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32d"
+  },
+  "first_name": "Kieran",
+  "last_name": "Bradshaw",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32e"
+  },
+  "first_name": "Neasa",
+  "last_name": "McGuinness",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f32f"
+  },
+  "first_name": "Jack",
+  "last_name": "McCormack",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f330"
+  },
+  "first_name": "Imogen",
+  "last_name": "Carter",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f331"
+  },
+  "first_name": "Matt",
+  "last_name": "Sadler",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f332"
+  },
+  "first_name": "Matt",
+  "last_name": "Tanter",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f333"
+  },
+  "first_name": "Bhavin",
+  "last_name": "Pabari",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f334"
+  },
+  "first_name": "Omar",
+  "last_name": "El-Gammal",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f335"
+  },
+  "first_name": "Aman",
+  "last_name": "Mundra",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f336"
+  },
+  "first_name": "Lucy",
+  "last_name": "Allen",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f337"
+  },
+  "first_name": "Anna",
+  "last_name": "Jenkins",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f338"
+  },
+  "first_name": "Kellie",
+  "last_name": "Box",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f339"
+  },
+  "first_name": "Victoria",
+  "last_name": "Farrell",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33a"
+  },
+  "first_name": "Theis",
+  "last_name": "Anderson",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33b"
+  },
+  "first_name": "Antonia",
+  "last_name": "Tam",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33c"
+  },
+  "first_name": "Sara",
+  "last_name": "Barqawi",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33d"
+  },
+  "first_name": "Alex",
+  "last_name": "Williams",
+  "department": "People",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33e"
+  },
+  "first_name": "Lizzie",
+  "last_name": "Moore",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f33f"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f33f"
+  },
+  "first_name": "George",
+  "last_name": "Allen",
+  "department": "Creative",
+  "hasPartner": true,
+  "partner": {
+    "$oid": "66bb41bb47f76f266103f33e"
+  },
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f340"
+  },
+  "first_name": "Hollie",
+  "last_name": "Walker",
+  "department": "Creative",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f341"
+  },
+  "first_name": "Amy",
+  "last_name": "Willemse",
+  "department": "Strategy",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+},
+{
+  "_id": {
+    "$oid": "66bb41bb47f76f266103f342"
+  },
+  "first_name": "James",
+  "last_name": "Anyiam",
+  "department": "Content",
+  "hasPartner": false,
+  "partner": null,
+  "additional_rules": [],
+  "has_dog": false,
+  "on_leave": false
+}]

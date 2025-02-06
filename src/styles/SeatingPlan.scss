@@ -1,0 +1,63 @@
+.seating-plan-container {
+  width: 100%;
+  aspect-ratio: 1.41625;
+  box-sizing: border-box;
+  position: relative;
+
+  .floor-plan {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+
+  }
+
+  .seat {
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0.7vw;
+    height: 0.7vw;     
+    cursor: pointer;
+    
+    p {
+      color: #000;
+      font-size: 1vw;
+      padding: 0.1em 0.5em;   
+      white-space: nowrap;  
+      position: absolute;
+      margin: 0;
+      transform: translate(-50%, -100%);
+      background-color: #fff;       
+      display: none;      
+    }
+
+    &:hover {
+      z-index: 10;
+
+      p {
+        display: block;
+      }
+    }
+  }
+
+  // p {
+  //   background-color: rgba(0,0,255, 0.6);
+  //   font-size: 1vw;
+  //   color: #ddd;
+  //   width: auto;
+  //   display: inline-block;
+  //   padding: 0.1em 0.5em;
+  //   position: relative;
+  
+  //   &::after {
+  //     content: ' ';
+  //     width: 2px;
+  //     background-color: #000;
+  //     display: inline-block;
+  //   }
+  // }  
+}
